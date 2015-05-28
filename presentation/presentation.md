@@ -121,7 +121,7 @@ Complex back stories to trick people into performing actions
 	relational database. Please try logging in and let me know if you
 	have any issues http://company.com
 
-Hyperlink linkes to http://idneep.com
+Hyperlink linkes to http://cmopany.com
 
 ---
 
